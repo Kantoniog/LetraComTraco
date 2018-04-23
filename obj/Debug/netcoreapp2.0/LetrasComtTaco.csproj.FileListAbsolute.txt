@@ -1,0 +1,10 @@
+C:\Users\user_acronus\LetrasComtTaco\bin\Debug\netcoreapp2.0\LetrasComtTaco.deps.json
+C:\Users\user_acronus\LetrasComtTaco\bin\Debug\netcoreapp2.0\LetrasComtTaco.runtimeconfig.json
+C:\Users\user_acronus\LetrasComtTaco\bin\Debug\netcoreapp2.0\LetrasComtTaco.runtimeconfig.dev.json
+C:\Users\user_acronus\LetrasComtTaco\bin\Debug\netcoreapp2.0\LetrasComtTaco.dll
+C:\Users\user_acronus\LetrasComtTaco\bin\Debug\netcoreapp2.0\LetrasComtTaco.pdb
+C:\Users\user_acronus\LetrasComtTaco\obj\Debug\netcoreapp2.0\LetrasComtTaco.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\LetrasComtTaco\obj\Debug\netcoreapp2.0\LetrasComtTaco.AssemblyInfoInputs.cache
+C:\Users\user_acronus\LetrasComtTaco\obj\Debug\netcoreapp2.0\LetrasComtTaco.AssemblyInfo.cs
+C:\Users\user_acronus\LetrasComtTaco\obj\Debug\netcoreapp2.0\LetrasComtTaco.dll
+C:\Users\user_acronus\LetrasComtTaco\obj\Debug\netcoreapp2.0\LetrasComtTaco.pdb
